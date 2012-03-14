@@ -1,0 +1,525 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: header.php:65
+#: header.php:115
+#: inc/functions/breadcrumb.php:5
+#@ snapwire
+#@ source
+msgid "Home"
+msgstr "Start"
+
+#: archive-default.php:44
+#: archive-default.php:86
+#: archive-media.php:12
+#: archive-media.php:19
+#: home.php:57
+#: home.php:61
+#: home.php:177
+#: home.php:184
+#: home.php:233
+#: home.php:240
+#: home.php:281
+#: home.php:303
+#: home.php:337
+#: home.php:359
+#: home.php:410
+#: home.php:461
+#: home.php:500
+#: home.php:541
+#: inc/functions/gabfire-widgets.php:1048
+#: inc/functions/gabfire-widgets.php:1064
+#: inc/functions/misc-functions.php:119
+#, php-format
+#@ snapwire
+#@ source
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+#: archive-default.php:76
+#: archive-media.php:43
+#: home.php:183
+#: home.php:239
+#: home.php:302
+#: home.php:358
+#: home.php:467
+#: home.php:506
+#: home.php:547
+#: inc/functions/gabfire-widgets.php:1049
+#: inc/functions/gabfire-widgets.php:1065
+#: inc/functions/misc-functions.php:125
+#@ snapwire
+#@ source
+msgid "No Comment"
+msgstr "Kein Kommentar"
+
+#: archive-default.php:76
+#: archive-media.php:43
+#: home.php:183
+#: home.php:239
+#: home.php:302
+#: home.php:358
+#: home.php:467
+#: home.php:506
+#: home.php:547
+#: inc/functions/gabfire-widgets.php:1049
+#: inc/functions/gabfire-widgets.php:1065
+#: inc/functions/misc-functions.php:125
+#@ snapwire
+#@ source
+msgid "1 Comment"
+msgstr "1 Kommentar"
+
+#: archive-default.php:76
+#: archive-media.php:43
+#: home.php:183
+#: home.php:239
+#: home.php:302
+#: home.php:358
+#: home.php:467
+#: home.php:506
+#: home.php:547
+#: inc/functions/gabfire-widgets.php:1049
+#: inc/functions/gabfire-widgets.php:1065
+#: inc/functions/misc-functions.php:125
+#@ snapwire
+#@ source
+msgid "% Comments"
+msgstr "% Kommentare"
+
+#: archive-default.php:87
+#: home.php:61
+#: home.php:184
+#: home.php:240
+#: home.php:303
+#: home.php:359
+#: inc/functions/misc-functions.php:119
+#@ snapwire
+#@ source
+msgid "Read More"
+msgstr "Mehr lesen"
+
+#: home.php:61
+#: home.php:185
+#: home.php:241
+#: home.php:304
+#: home.php:360
+#: home.php:468
+#: home.php:507
+#: home.php:548
+#@ snapwire
+msgid "Edit"
+msgstr "Bearbeite"
+
+#: single.php:13
+#: single.php:79
+#@ snapwire
+msgid "Filed under"
+msgstr "Abgelegt unter "
+
+#: page.php:13
+#: page.php:38
+#: single.php:31
+#: single.php:68
+#: tpl-archives.php:19
+#: tpl-archives.php:58
+#: tpl-left-sidebar.php:18
+#: tpl-left-sidebar.php:43
+#: tpl-nosidebar.php:18
+#: tpl-nosidebar.php:43
+#: tpl-tag-cloud.php:17
+#: tpl-tag-cloud.php:46
+#: tpl-widgetized.php:18
+#: tpl-widgetized.php:46
+#@ snapwire
+msgid "Edit This Post"
+msgstr "Bearbeite den Artikel"
+
+#: comments.php:14
+#@ snapwire
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Dieser Artikel ist Passwort geschützt. Trage das Passwort ein, um die Kommentare sehen zu können"
+
+#: comments.php:31
+#, php-format
+#@ snapwire
+msgid "One Response to %2$s"
+msgid_plural "%1$s Responses to %2$s"
+msgstr[0] "Eine Antwort zu %2$s"
+msgstr[1] "%1$s Antworten zu %2$s"
+
+#: comments.php:38
+#: comments.php:57
+#@ snapwire
+msgid "&larr; Older Comments"
+msgstr "&larr; Ältere Kommentare"
+
+#: comments.php:39
+#: comments.php:58
+#@ snapwire
+msgid "Newer Comments &rarr;"
+msgstr "Neuere Kommentare &rarr;"
+
+#: comments.php:75
+#@ snapwire
+msgid "You must be logged in to post a comment"
+msgstr "Du mußt eingeloggt sein, um kommentieren zu können"
+
+#: comments.php:77
+#@ snapwire
+msgid "Login"
+msgstr "Einloggen"
+
+#: footer.php:61
+#@ snapwire
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:61
+#@ snapwire
+msgid "Powered by WordPress"
+msgstr ""
+
+#: header.php:9
+#: inc/functions/misc-functions.php:47
+#@ snapwire
+#@ source
+msgid "Search Results"
+msgstr "Suchresultate"
+
+#: header.php:10
+#: inc/functions/misc-functions.php:48
+#@ snapwire
+#@ source
+msgid "Author Archives"
+msgstr "Autoren Archiv"
+
+#: header.php:13
+#: header.php:14
+#: inc/functions/misc-functions.php:51
+#: inc/functions/misc-functions.php:52
+#@ snapwire
+#@ source
+msgid "Archive"
+msgstr ""
+
+#: header.php:15
+#: inc/functions/misc-functions.php:53
+#@ snapwire
+#@ source
+msgid "Tag Archive"
+msgstr "Tag Archiv\""
+
+#: header.php:20
+#: inc/functions/misc-functions.php:58
+#, php-format
+#@ default
+msgid "%s"
+msgstr ""
+
+#: header.php:72
+#@ snapwire
+msgid "Follow on Twitter"
+msgstr ""
+
+#: header.php:68
+#@ snapwire
+msgid "Connect on facebook"
+msgstr "Verbinde mit Facebook"
+
+#: header.php:68
+#@ snapwire
+msgid "Connect on Facebook"
+msgstr "Verbinde mit Facebook"
+
+#: inc/functions/breadcrumb.php:19
+#@ source
+msgid "Archives by category"
+msgstr "Archive nach Kategorie"
+
+#: inc/functions/breadcrumb.php:72
+#@ source
+msgid "Search results for"
+msgstr "Suchresultate für"
+
+#: inc/functions/breadcrumb.php:76
+#@ source
+msgid "Posts tagged with"
+msgstr "Artikel verschlagwortet mit"
+
+#: inc/functions/breadcrumb.php:81
+#@ source
+msgid "Entries posted by"
+msgstr "Einträge verfasst von"
+
+#: inc/functions/breadcrumb.php:84
+#@ source
+msgid "404! Page not found"
+msgstr "404! Seite nicht gefunden"
+
+#: inc/functions/misc-functions.php:153
+#@ source
+msgid "Page"
+msgstr "Seite"
+
+#: inc/theme-comments.php:22
+#, php-format
+#@ default
+msgid "%s "
+msgstr ""
+
+#: inc/theme-comments.php:34
+#@ snapwire
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar wird moderiert"
+
+#. translators: 1: date, 2: time
+#: inc/theme-comments.php:26
+#, php-format
+#@ default
+msgid "%1$s - %2$s"
+msgstr ""
+
+#: inc/functions/misc-functions.php:127
+#: inc/theme-comments.php:26
+#: inc/theme-comments.php:50
+#@ source
+#@ default
+msgid "#"
+msgstr ""
+
+#: inc/theme-comments.php:50
+#@ snapwire
+msgid "Pingback:"
+msgstr ""
+
+#: archive-default.php:64
+#: single.php:14
+#: single.php:74
+#@ snapwire
+msgid "Posted by"
+msgstr "Verfasst von"
+
+#: single.php:58
+#@ snapwire
+msgid "Shortlink: "
+msgstr "Kurzverweis"
+
+#: inc/functions/gabfire-widgets.php:1049
+#: inc/functions/gabfire-widgets.php:1065
+#: single.php:79
+#@ source
+#@ snapwire
+msgid "on"
+msgstr "auf"
+
+#: single.php:80
+#@ snapwire
+msgid "You can follow any responses to this entry through the"
+msgstr "Du kannst jedem Kommentar zu diesem Artikel folgen durch"
+
+#: single.php:83
+#@ snapwire
+msgid "You can leave a response or trackback to this entry"
+msgstr "Du kannst kommentieren oder zu diesem Artkel trackbacken"
+
+#: single.php:86
+#@ snapwire
+msgid "Responses are currently closed, but you can trackback from your own site."
+msgstr "Kommentare geschlossen, aber du kannst von deiner eigenen Seite Trackbacks setzen."
+
+#: single.php:89
+#@ snapwire
+msgid "You can skip to the end and leave a response. Pinging is currently not allowed."
+msgstr "Gehe zum Ende des Artikels und hinterlasse einen Kommenta. Pings sind nicht gestattet."
+
+#: single.php:92
+#@ snapwire
+msgid "Both comments and pings are currently closed."
+msgstr "Kommentare und Pings sind gescvhlossen."
+
+#: archive-default.php:70
+#@ snapwire
+msgid "Posted in"
+msgstr "Erstellt in"
+
+#: archive-default.php:75
+#@ snapwire
+msgid "Comments"
+msgstr "Kommentare"
+
+#: archive-default.php:80
+#@ snapwire
+msgid "Tags"
+msgstr "Stichworte"
+
+#: archive-default.php:96
+#@ snapwire
+msgid "Sorry, nothing matched your criterias"
+msgstr "Verzeihung, nichts trifft deine Kriterien"
+
+#: header.php:75
+#@ snapwire
+msgid "RSS for Entries"
+msgstr "RSS für Einträge"
+
+#: header.php:78
+#@ snapwire
+msgid "Subscribe via Email"
+msgstr "Abonniere via eMail"
+
+#: inc/functions/misc-functions.php:153
+#@ source
+msgid "of"
+msgstr "von"
+
+#: inc/functions/misc-functions.php:155
+#@ source
+msgid "First"
+msgstr "Erste"
+
+#: inc/functions/misc-functions.php:158
+#@ source
+msgid "Previous"
+msgstr "Vorherige"
+
+#: inc/functions/misc-functions.php:170
+#@ source
+msgid "Next"
+msgstr "Nächste"
+
+#: inc/functions/misc-functions.php:173
+#@ source
+msgid "Last"
+msgstr "Letzte"
+
+#: searchform.php:3
+#: searchform.php:4
+#@ snapwire
+msgid "Search in Site..."
+msgstr "Suche in der Seite"
+
+#: 404.php:10
+#@ snapwire
+msgid "Page not found!"
+msgstr ""
+
+#: 404.php:13
+#@ snapwire
+msgid "Sorry the page you were looking is not here."
+msgstr ""
+
+#: inc/functions/breadcrumb.php:53
+#@ source
+msgid "Gallery"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:89
+#@ source
+msgid " (Page"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1049
+#: inc/functions/gabfire-widgets.php:1065
+#@ source
+msgid "by"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1190
+#@ source
+msgid "Tweet"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1201
+#@ source
+msgid "Share on Facebook"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1204
+#@ source
+msgid "Share on Twitter"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1207
+#@ source
+msgid "Email a Friend"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1210
+#@ source
+msgid "Share on Delicious"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1213
+#@ source
+msgid "Share on Digg"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1216
+#@ source
+msgid "Share on Google"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1219
+#@ source
+msgid "Share on StumbleUpon"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1222
+#@ source
+msgid "Share on Reddit"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1225
+#@ source
+msgid "Share on Technorati"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1228
+#@ source
+msgid "Share on Yahoo"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1231
+#@ source
+msgid "Share on Blogger"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1234
+#@ source
+msgid "Share on Myspace"
+msgstr ""
+
+#: inc/functions/gabfire-widgets.php:1237
+#@ source
+msgid "RSS Feed"
+msgstr ""
+
+#: inc/functions/misc-functions.php:35
+#@ default
+msgid "No categories"
+msgstr ""
+
+#: inc/functions/shortcodes.php:35
+#@ source
+msgid "No related posts found"
+msgstr ""
+

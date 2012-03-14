@@ -1,0 +1,37 @@
+Snapwire 0.8
+------------------------------------------
+ 1. Framework and minor css updates
+
+Snapwire 0.7
+------------------------------------------
+ 1. TimThumb script update
+ 2. Tag based innerpage slider fix
+ 3. WordPress 3.3 theme control panel update
+ 
+Snapwire 0.6
+------------------------------------------
+ 1. TimThumb security fix
+ 
+Snapwire 0.5
+------------------------------------------
+  1. 404 page fix
+  2. WPMU Support
+  3. Ability to customize the number of posts on front page
+  4. Strip slashes and shortcode support for ad areas
+  5. 120x600 mainpage ad included into theme control panel
+  6. Numbered pagination for archive posts
+  4. Framework Update
+
+Snapwire 0.3
+------------------------------------------
+  1. Localization domain name fix
+  2. Remove Do Not Duplicate option
+
+Snapwire 0.2
+------------------------------------------
+  1. 120x600 ad display fix
+  2. Change log update
+  
+Snapwire 0.1
+------------------------------------------
+Initial release
