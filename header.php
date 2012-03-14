@@ -7,8 +7,6 @@
 <title><?php gab_title(); ?></title>
 
 	<link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
-		<link rel="stylesheet" type="text/css" media="screen" title="Stylesheet" href="<?php bloginfo( 'template_url' ); ?>/styles/<?php echo (isset($_COOKIE["sitestyle"]) ? $_COOKIE["sitestyle"]  : 'default'); ?>.css" />
-	<link rel="stylesheet" href="http://demos.gabfirethemes.com/switcher/style/switcher.css" type="text/css" media="screen" />	
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="<?php if ( of_get_option('of_rssaddr') <> "" ) { echo of_get_option('of_rssaddr'); } else { echo bloginfo('rss2_url'); } ?>" />	
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 
@@ -25,20 +23,6 @@
 </head>
 
 <body <?php body_class(); ?>>
-<div id="fixedline">
-	<div id="fixedInner">
-		<?php include $_SERVER['DOCUMENT_ROOT'] . '/switcher/theme-data.php'; ?>
-		
-		<a href="http://www.gabfirethemes.com" id="gabfire-logo"></a>
-			
-		<?php include $_SERVER['DOCUMENT_ROOT'] . '/switcher/theme-names.php'; ?>
-		
-		<?php include $_SERVER['DOCUMENT_ROOT'] . '/switcher/schemes.php'; ?>
-		
-		<a id="gab_download" href="<?php  echo $purchase; ?>">Download this theme</a>	
-		
-	</div>
-</div>
 <div id="header">
 	<div class="wrapper">
 		<div id="header_top">
