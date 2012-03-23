@@ -7,16 +7,16 @@
 			<h3 id="bcrumb">
 				<?php gab_breadcrumb(); ?>
 			</h3>
-						
-			<?php include (TEMPLATEPATH . '/archive-default.php'); 
+				
+			<?php include (TEMPLATEPATH . '/loop-default.php'); 
 
-			// load pagination
+				// load pagination
 			if (($wp_query->max_num_pages > 1) && (function_exists("pagination"))) {
 				pagination($additional_loop->max_num_pages);
-			}		
-			?>	
+			} ?>		
+					
 		</div> <!-- /main -->
-	
+		
 		<div id="sidebar">
 			<div class="holder margin_bottom_25">
 				<?php get_sidebar(); ?>

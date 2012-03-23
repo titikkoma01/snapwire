@@ -1,3 +1,7 @@
+Snapwire 0.9
+------------------------------------------
+ 1. Fix search page layout
+
 Snapwire 0.8
 ------------------------------------------
  1. Framework and minor css updates
